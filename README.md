@@ -29,6 +29,11 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Connect the supply(+5V) to the cirucit. Switch ON the 
 main switch if the output is 1,then the led glows.
 ## Program:
+Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
+Developed by: R.Vidhyadharan
+
+RegisterNumber: 22008663
 ~~~py
 module half_sub(x,y,d,b);
 input x,y;
