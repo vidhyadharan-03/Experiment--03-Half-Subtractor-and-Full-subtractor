@@ -61,5 +61,11 @@ endmodule
 ## Timing diagram :
 ![half_sub](/half_sub_wave.png)
 ![full_sub](/full_sub_waave.png)
+## TRUTH TABLE :
+# HALF SUBTRACTOR
+![half_sub_truthtable](https://user-images.githubusercontent.com/114286357/214352754-b82aa777-4b0f-44c9-9015-e27f02e197ad.png)
+# FULL SUBTRACTOR
+![full_sub_truthtable](https://user-images.githubusercontent.com/114286357/214352869-13297463-0dc1-4dec-beb4-2dc9a69c027d.png)
+
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
